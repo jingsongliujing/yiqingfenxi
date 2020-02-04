@@ -1,2 +1,2 @@
-# yiqingfenxi
+# 全国疫情获取
 用python实现全国疫情分析
